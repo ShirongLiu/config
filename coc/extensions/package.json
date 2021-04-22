@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "coc-snippets": ">=2.2.5"
+  }
+}
